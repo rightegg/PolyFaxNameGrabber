@@ -4,7 +4,7 @@
 
 Changed "type" in polyfax.py to "name"
 
-Changed csv.field_size_limit input to 2147483647
+Changed csv.field_size_limit input to 2147483647 in Util.py and Analyzer.py
 
 Created NameCrawler class
 
