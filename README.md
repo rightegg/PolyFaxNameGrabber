@@ -12,7 +12,7 @@ Added "Repos" entry to Config file
 
 # How to Use
 
-Run python polyfax.py -a crawler to collect information on repositories specific in Config file.
+Run python polyfax.py -a crawler to collect information on repositories specified in the Config file.
 
 Other functions are untouched.
 
