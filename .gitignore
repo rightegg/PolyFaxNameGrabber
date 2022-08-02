@@ -1,0 +1,4 @@
+Data/*
+!Data/Config
+
+lib/__pycache__
